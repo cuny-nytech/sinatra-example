@@ -34,4 +34,4 @@
     open http://SOMETHING.herokuapp.com/hi
     ```
 
-See the example at http://pure-harbor-1690.herokuapp.com/.
+See the example at http://cuny-sinatra-example.herokuapp.com/hi.
